@@ -1,0 +1,22 @@
+body {
+	background-color: #199479;
+	color: #caf6ec;
+}
+
+h1 {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+#slogan {
+	font-size: 24px;
+	font-style: italic;
+}
+
+#email {
+	font-size: 18px;
+	background-color: white;
+	border: solid;
+	border-color: blue;
+	padding: 2px;
+}
