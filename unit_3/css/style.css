@@ -1,6 +1,7 @@
 body {
 	background-color: #199479;
 	color: #caf6ec;
+	text-align: center;
 }
 
 h1 {
@@ -19,4 +20,8 @@ h1 {
 	border: solid;
 	border-color: blue;
 	padding: 2px;
+}
+
+ul {
+	list-style-type: none;
 }
