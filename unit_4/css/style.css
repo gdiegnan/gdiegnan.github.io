@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+body {
+	background-color: #199479;
+	color: #caf6ec;
+	text-align: center;
+}
+
+#header {
+	font-weight: bold;
+	font-family: 'Cinzel Decorative', cursive;
+	font-weight: 700;
+	font-size: 38px;
+	text-transform: uppercase;
+	text-decoration: overline;
+	font-style: italic;
+}
+
+#slogan {
+	font-size: 24px;
+}
+
+/*#email {
+	font-size: 18px;
+	background-color: white;
+	border: solid;
+	border-color: blue;
+	padding: 2px;
+} */
+
+ul {
+	list-style-position: inside;
+	text-align: center;
+}
+
+#heroImage {
+	transform: rotate(90deg);
+}
+
+#lowerHeader {
+	text-align: left;
+	font-weight: normal;
+}
+
+#logo {
+	border-radius: 50%;
+}
+
+#lowerNav {
+	list-style: none;
+	text-align: right;
+}
+
+#nav {
+	list-style: none;
+	text-align: right;
+}
+
+.nonHeader {
+	font-family: 'Roboto Condensed', sans-serif;
+}
